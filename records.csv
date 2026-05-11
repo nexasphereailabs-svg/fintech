@@ -1,0 +1,5 @@
+customer_id,full_name,annual_income,credit_score,last_kyc_date
+CUST001,Rahul Sharma,125000,782,2025-04-01
+CUST002,Priya Patel,78000,645,2024-12-15
+CUST003,Amit Verma,215000,818,2025-05-01
+CUST004,Sneha Gupta,92000,710,2025-03-20
