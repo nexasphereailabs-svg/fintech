@@ -173,7 +173,7 @@ with tab3:
                 st.info("Additional Verification Required")
             else:
                 st.success(f"✅ Low Risk — {risk_prob:.1%}")
-                # st.balloons()  ← Removed
+                st.balloons()
     
     else:
         st.subheader("Personalized Offer Generator")

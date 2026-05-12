@@ -1,6 +1,4 @@
 ## TODO
-- [ ] Move navigation from sidebar to a top navbar in `project.py` using a horizontal `st.radio`.
-- [ ] Ensure page routing logic (`if page == ...`) remains unchanged.
-- [ ] Keep all existing UI sections/functional logic intact; only UI placement changes.
-- [ ] Run `streamlit run project.py` to verify rendering.
+- [ ] Update `day1_day_2.py` UI theme to be more professional and light; keep functionality/features unchanged.
+- [ ] Run `streamlit run day1_day_2.py` to verify rendering.
 
